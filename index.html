@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <title>iPhone calculator</title>
+        <h1>Calculator</h1>
+        <div id="iphone">
+            <div id="answerbox">0</div>
+            <table>
+                <tr>
+                    <td><button onclick="calculate('AC')">AC</button></td>
+                    <td><button onclick="calculate('+/-')">+/-</button></td>
+                    <td><button onclick="calculate('%')">%</button></td>
+                    <td id="/"><button onclick="calculate('/')">/</button></td>
+                </tr>
+                <tr>
+                    <td><button onclick="calculate(7)">7</button></td>
+                    <td><button onclick="calculate(8)">8</button></td>
+                    <td><button onclick="calculate(9)">9</button></td>
+                    <td id="x"><button onclick="calculate('x')">x</button></td>
+                </tr>
+                <tr>
+                    <td><button onclick="calculate(4)">4</button></td>
+                    <td><button onclick="calculate(5)">5</button></td>
+                    <td><button onclick="calculate(6)">6</button></td>
+                    <td id="-"><button onclick="calculate('-')">-</button></td>
+                </tr>
+                <tr>
+                    <td><button onclick="calculate(1)">1</button></td>
+                    <td><button onclick="calculate(2)">2</button></td>
+                    <td><button onclick="calculate(3)">3</button></td>
+                    <td id="+"><button onclick="calculate('+')">+</button></td>
+                </tr>
+                <tr>
+                    <td id="zero" colspan="2"><button onclick="calculate(0)">0</button></td>
+                    <td id="dot"><button onclick="calculate('.')">.</button></td>
+                    <td id="equals"><button onclick="calculate('=')">=</button></td>
+                </tr>
+            </table>
+        </div>
+        <p>Equation: <span id="equation"></span></p>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+:root{
+    --circle: 50px;
+    --top: 72.8%;
+}
+*{
+    background-color: #000;
+    color:#fff;
+}
+h1{
+    position: absolute;
+    top: 3%;
+    left:25%;
+}
+#iphone{
+    margin:10px;
+    border: 5px solid #fff;
+    padding:10px;
+    width: 50%;
+    position: absolute;
+    top:10%;
+    left:10%;
+}
+#answerbox{
+    margin:5px;
+    /*border: 5px solid yellow;*/
+    padding:10px;
+    text-align:right;
+    height: 50px;
+    font-size: 300%;
+    font-family: Arial;
+}
+table{
+    /*border:5px solid yellow;*/
+    width: 98%;
+    margin: 5px;
+    text-align: center;
+}
+td{
+    margin:50px;
+    padding: 30px;
+    height: var(--circle);
+    width: var(--circle);
+    line-height: var(--circle);
+    border-radius: 60px;
+    background-color: gray;
+    color: black;
+    text-align: center;
+    font-size: 200%;
+    color:#fff;
+}
+table tr td:last-child{
+    background-color: orange;
+}
+#zero{
+    padding: 30px;
+    text-align: left;    
+}
+#dot{
+    position: absolute;
+    top:var(--top);
+    left:41.5%;
+}
+#equals{
+    position: absolute;
+    top:var(--top);
+    left:63.5%;
+}
+button{
+    background-color: gray;
+    padding:0;
+    border: 0;
+    font-size: 90%;
+    width:50px;
+}
+table tr td:last-child button{
+    background-color: orange;
+}
+p{
+    position: absolute;
+    top: 70%;
+    font-size: 300%;
+}
