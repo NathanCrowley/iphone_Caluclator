@@ -5,8 +5,26 @@
         <script src="index.js"></script>
     </head>
     <body>
+        <header>
+            <span>Creator: Nathan Crowley | </span>
+            <span><a href="https://github.com/NathanCrowley">Github</a> |</span>
+            <span><a href="https://www.linkedin.com/in/nathan-crowley-9106591a0/">LinkedIn</a>  |</span>
+        </header>
+        <div id="popup">
+            <div id="popupContent">
+                <h2> Insturctions</h2>
+                <ul>
+                    <li>Use the numberical buttons to enter the first number.</li>
+                    <li>Choose an operator.</li>
+                    <li>Enter the second number of the equation.</li>
+                    <li>Press the equals (=) button to calculate the answer.</li>
+                    <li>Example equation: 10+5=15 (first:10, operator:+, second:5)</li>
+                </ul>
+                <button id="continue" onclick="">Continue</button>
+            </div>
+        </div>
         <title>iPhone calculator</title>
-        <h1>Calculator</h1>
+        <h1>iPhone calculator</h1>
         <div id="iphone">
             <div id="answerbox">0</div>
             <table>
@@ -41,6 +59,6 @@
                 </tr>
             </table>
         </div>
-        <p>Equation: <span id="equation"></span></p>
+        <div id="Equation">Equation: <span id="equation"></span></div>
     </body>
 </html>

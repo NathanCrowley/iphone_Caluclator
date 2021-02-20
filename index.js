@@ -51,3 +51,15 @@ function calculate(x){
 function printEquation(){
     document.getElementById("equation").innerHTML = equation;
 }
+
+// Popup instructions 
+window.onload = function(){
+    window.onclick = function(event){
+        if(event.target == popup){
+            document.getElementById("popup").style.display = "none";
+        }
+    }
+    document.getElementById("continue").onclick = function(event){
+        document.getElementById("popup").style.display = "none";
+    }
+}
