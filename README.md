@@ -1,5 +1,5 @@
 ### !!! as of now the application is best viewed on an iPhone not on a laptop or desktop !!!
-# iphone_Calculator
+# iPhone_Calculator
 Challenged myself to create the iPhone calculator using HTML, CSS, JavaScript. 
 
 ## How it works
