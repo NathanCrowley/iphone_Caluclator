@@ -1,4 +1,7 @@
-### !!! as of now the application is best viewed on an iPhone not on a laptop or desktop !!!
+### !!! As of now the application is best viewed on an iPhone. Not on a laptop or desktop !!!
+If using Laptop: 
+- Right click webpage and Inspect 
+- Select Demension as iPhone 
 # iPhone_Calculator
 Challenged myself to create the iPhone calculator using HTML, CSS, JavaScript. 
 
