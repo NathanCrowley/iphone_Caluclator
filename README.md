@@ -8,8 +8,8 @@ The user enters an equation by pressing the numerical buttons followed by an ope
 ## Screenshots
 - Addition: ![Screenshot of application demonstrating Addiiton example](/Project_Screenshots/iphone_calculator_ADD_screenshot.png "Addition Example").
 
-- Subtraction: ![Screenshot of application demonstrating Subtraction example](/Project_Screenshots/iphone_calculator_MINUS_screenshot.png "SubTraction Example").
+- Subtraction: ![Screenshot of application demonstrating Subtraction example](/Project_Screenshots/iphone_calculator_MINUS_screenshot.PNG "SubTraction Example").
 
-- Mutlipication: ![Screenshot of application demonstrating Multiplication example](/Project_Screenshots/iphone_calculator_MULTIPLY_screenshot.png "Multiplication Example").
+- Mutlipication: ![Screenshot of application demonstrating Multiplication example](/Project_Screenshots/iphone_calculator_MULTIPLY_screenshot.PNG "Multiplication Example").
 
 - Division: ![Screenshot of application demonstrating Division example](/Project_Screenshots/iphone_calculator_DIVIDE_screenshot.png "Division Example").
