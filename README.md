@@ -6,10 +6,10 @@ Challenged myself to create the iPhone calculator using HTML, CSS, JavaScript.
 The user enters an equation by pressing the numerical buttons followed by an operator, with the equals sign calling the function to calculator the answer.
 
 ## Screenshots
-- Addition: ![Screenshot of application demonstrating Addiiton example](/Project_Screenshots/iphone_calculator_ADD_screenshot.png "Addition Example").
+<img src="/Project_Screenshots/iphone_calculator_ADD_screenshot.png" alt="Addition example screenshot" style="height: 300px; width:150px;"/>
 
-- Subtraction: ![Screenshot of application demonstrating Subtraction example](/Project_Screenshots/iphone_calculator_MINUS_screenshot.PNG "SubTraction Example").
+<img src="/Project_Screenshots/iphone_calculator_MINUS_screenshot.PNG" alt="Minus example screenshot" style="height: 300px; width:150px;"/>
 
-- Mutlipication: ![Screenshot of application demonstrating Multiplication example](/Project_Screenshots/iphone_calculator_MULTIPLY_screenshot.PNG "Multiplication Example").
+<img src="/Project_Screenshots/iphone_calculator_MULTIPLY_screenshot.PNG" alt="Multiply example screenshot" style="height: 300px; width:150px;"/>
 
-- Division: ![Screenshot of application demonstrating Division example](/Project_Screenshots/iphone_calculator_DIVIDE_screenshot.png "Division Example").
+<img src="/Project_Screenshots/iphone_calculator_DIVIDE_screenshot.png" alt="Division example screenshot" style="height: 300px; width:150px;"/>
